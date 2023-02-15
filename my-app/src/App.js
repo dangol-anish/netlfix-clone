@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 
 function App() {
-  console.log(process.env);
   return (
     <>
       <Navbar />
