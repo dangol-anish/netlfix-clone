@@ -27,8 +27,8 @@ const SignUp = () => {
         alt="/"
       />
       <div className="bg-black/40 fixed top-0 left-0 h-screen w-full"></div>
-      <div className="w-full fixed px-4 py-12 z-50">
-        <div className="max-w-[450px] h-[600px] mx-auto bg-black/75 text-white">
+      <div className="w-full fixed px-4 py-24 z-50">
+        <div className="max-w-[450px] h-[550px] mx-auto bg-black/75 text-white">
           <div className="max-w-[320px] mx-auto py-16">
             <h1 className="text-3xl font-bold">Sign Up</h1>
             <form onSubmit={handleSubmit} className="w-full flex flex-col py-4">
